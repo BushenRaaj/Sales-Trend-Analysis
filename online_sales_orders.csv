@@ -1,0 +1,51 @@
+order_id,order_date,amount,product_id,category,product_name,quantity,unit_price,region,payment_method
+1,2023-01-01 00:00:00.000000000,960,103,Electronics,Action Figure,4,240.0,South America,Debit Card
+2,2023-01-04 16:09:47.755102040,3872,101,Toys,Novel,3,1290.67,North America,Bank Transfer
+3,2023-01-08 08:19:35.510204081,3192,104,Home,T-Shirt,4,798.0,North America,PayPal
+4,2023-01-12 00:29:23.265306122,566,102,Books,Novel,3,188.67,Europe,Credit Card
+5,2023-01-15 16:39:11.020408163,4526,104,Home,Headphones,3,1508.67,Asia,Debit Card
+6,2023-01-19 08:48:58.775510204,3544,102,Home,Lamp,4,886.0,Asia,Credit Card
+7,2023-01-23 00:58:46.530612245,3271,102,Electronics,Sofa,3,1090.33,Europe,Credit Card
+8,2023-01-26 17:08:34.285714285,3019,104,Home,Cookware,1,3019.0,Europe,PayPal
+9,2023-01-30 09:18:22.040816326,230,105,Toys,Action Figure,3,76.67,Asia,Bank Transfer
+10,2023-02-03 01:28:09.795918367,1785,102,Home,Novel,2,892.5,Asia,PayPal
+11,2023-02-06 17:37:57.551020408,869,102,Electronics,Jeans,4,217.25,South America,PayPal
+12,2023-02-10 09:47:45.306122449,2491,104,Toys,Smartphone,1,2491.0,South America,PayPal
+13,2023-02-14 01:57:33.061224490,2533,102,Clothing,Headphones,4,633.25,Europe,PayPal
+14,2023-02-17 18:07:20.816326530,1284,102,Home,Textbook,2,642.0,South America,Debit Card
+15,2023-02-21 10:17:08.571428571,4655,104,Electronics,Board Game,2,2327.5,North America,Bank Transfer
+16,2023-02-25 02:26:56.326530612,3485,104,Clothing,Cookware,2,1742.5,South America,Credit Card
+17,2023-02-28 18:36:44.081632653,4217,101,Clothing,Action Figure,3,1405.67,South America,Credit Card
+18,2023-03-04 10:46:31.836734694,4943,105,Books,Sofa,3,1647.67,North America,Bank Transfer
+19,2023-03-08 02:56:19.591836735,3004,105,Toys,Cookware,4,751.0,Europe,Credit Card
+20,2023-03-11 19:06:07.346938775,574,102,Home,Novel,4,143.5,North America,Bank Transfer
+21,2023-03-15 11:15:55.102040816,1182,105,Electronics,T-Shirt,1,1182.0,South America,Credit Card
+22,2023-03-19 03:25:42.857142857,2658,102,Books,Smartphone,1,2658.0,Europe,PayPal
+23,2023-03-22 19:35:30.612244898,2147,101,Toys,Smartphone,4,536.75,South America,Credit Card
+24,2023-03-26 11:45:18.367346939,2847,104,Books,Textbook,3,949.0,North America,Bank Transfer
+25,2023-03-30 03:55:06.122448980,1075,104,Toys,T-Shirt,2,537.5,North America,Bank Transfer
+26,2023-04-02 20:04:53.877551020,1906,104,Toys,Board Game,4,476.5,South America,Bank Transfer
+27,2023-04-06 12:14:41.632653061,289,105,Home,Lamp,1,289.0,Asia,Bank Transfer
+28,2023-04-10 04:24:29.387755102,2834,101,Toys,Laptop,3,944.67,Asia,Bank Transfer
+29,2023-04-13 20:34:17.142857143,3105,105,Books,Headphones,4,776.25,North America,Debit Card
+30,2023-04-17 12:44:04.897959184,4758,105,Toys,Smartphone,4,1189.5,North America,Debit Card
+31,2023-04-21 04:53:52.653061224,1999,101,Home,Jeans,3,666.33,Asia,Credit Card
+32,2023-04-24 21:03:40.408163266,1367,101,Home,Smartphone,4,341.75,Asia,Bank Transfer
+33,2023-04-28 13:13:28.163265306,1628,101,Books,Cookware,3,542.67,South America,Credit Card
+34,2023-05-02 05:23:15.918367346,3302,101,Clothing,Smartphone,2,1651.0,South America,Bank Transfer
+35,2023-05-05 21:33:03.673469388,3656,104,Clothing,Action Figure,3,1218.67,Asia,Bank Transfer
+36,2023-05-09 13:42:51.428571428,3990,103,Toys,Smartphone,3,1330.0,South America,Debit Card
+37,2023-05-13 05:52:39.183673470,746,103,Electronics,Laptop,3,248.67,South America,Debit Card
+38,2023-05-16 22:02:26.938775510,2988,101,Toys,Laptop,4,747.0,Europe,PayPal
+39,2023-05-20 14:12:14.693877550,2535,103,Books,Board Game,4,633.75,South America,Debit Card
+40,2023-05-24 06:22:02.448979592,700,103,Books,Sofa,3,233.33,North America,PayPal
+41,2023-05-27 22:31:50.204081632,2463,101,Books,Lamp,4,615.75,South America,PayPal
+42,2023-05-31 14:41:37.959183674,2161,103,Books,Jeans,1,2161.0,South America,PayPal
+43,2023-06-04 06:51:25.714285714,341,105,Books,Smartphone,1,341.0,Asia,PayPal
+44,2023-06-07 23:01:13.469387754,2141,102,Home,Smartphone,4,535.25,North America,PayPal
+45,2023-06-11 15:11:01.224489796,2924,102,Clothing,Headphones,4,731.0,South America,Credit Card
+46,2023-06-15 07:20:48.979591836,2712,101,Books,Laptop,3,904.0,South America,Debit Card
+47,2023-06-18 23:30:36.734693878,1463,104,Electronics,Jeans,2,731.5,Europe,PayPal
+48,2023-06-22 15:40:24.489795918,1578,101,Electronics,Board Game,4,394.5,South America,Bank Transfer
+49,2023-06-26 07:50:12.244897960,2656,104,Electronics,Textbook,1,2656.0,South America,Debit Card
+50,2023-06-30 00:00:00.000000000,875,102,Electronics,Sofa,3,291.67,Europe,Debit Card
